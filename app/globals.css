@@ -65,3 +65,7 @@ body {
   list-style-type: decimal;
   margin-left: 2em;
 }
+
+button.w-full.p-4.flex.justify-between.items-center.text-left.text-lg.font-semibold.bg-white.shadow-md.rounded-lg.transition.transform.hover\:scale-105 {
+    color: black;
+}
